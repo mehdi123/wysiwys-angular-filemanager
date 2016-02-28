@@ -10,7 +10,7 @@
     "filemanager"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/mehdi123/wysiwys-angular-filemanager",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -21,6 +21,6 @@
   "dependencies": {
     "angular-translate": "~2.9.2",
     "jquery": "~2.2.1",
-    "bootswatch": "~3.3.6+1"
+    "bootswatch": "~3.3.6"
   }
 }
