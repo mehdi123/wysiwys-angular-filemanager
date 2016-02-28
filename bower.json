@@ -1,0 +1,26 @@
+{
+  "name": "wysiwys-angular-filemanager",
+  "authors": [
+    "Mehdi Ahmadi <mehdi.ai@gmail.com>"
+  ],
+  "description": "A angularJS-based file manager",
+  "main": "src/app.js",
+  "moduleType": [],
+  "keywords": [
+    "filemanager"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-translate": "~2.9.2",
+    "jquery": "~2.2.1",
+    "bootswatch": "~3.3.6+1"
+  }
+}
